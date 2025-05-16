@@ -12,7 +12,7 @@ Source ROS2 Humble
 ```bash
 echo "source /opt/ros/jazzy/setup.bash" >> ~/.bashrc
 ```
-This make you doesn't need to source ROS2 Humble every time you open terminal
+This make you doesn't need to source ROS2 Jazzy every time you open terminal
 1. Clone this Github to the workspace
   ```bash
   git clone https://github.com/wchawaphon/Centralized-Control-System.git
